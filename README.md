@@ -5,5 +5,5 @@
 <h1>🔧 Dependencias</h1>
 
 <ul>
-  <li></li>
+  <li>captcha.image</li>
 </ul>
