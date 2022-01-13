@@ -19,5 +19,5 @@
 <h4>
   Rodar a aplicação:
    <br>
-  $ capture.py
+  $ python capture.py
 </h4>
